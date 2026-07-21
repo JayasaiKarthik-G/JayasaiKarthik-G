@@ -92,12 +92,12 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
 
 | Project | Technologies |
 |----------|--------------|
-| 🏫 School Management System | React • Redux Toolkit • Spring Boot • MySQL |
-| 🎬 Movie Explorer App | React • Redux Toolkit • TMDB API • Material UI |
-| 🛒 React E-Commerce App | React • Redux Toolkit • JWT |
-| ✅ Personal Task Manager | JavaScript • Bootstrap • JWT |
-| 🌦 Weather Forecast App | JavaScript • Bootstrap • Weather API |
-| 🤖 Tool Wear & Fault Prediction | Python • Streamlit • Machine Learning |
+| 🏫 School Management System | [View Project](https://github.com/JayasaiKarthik-G/School-Management-System) |
+| 🎬 Movie Explorer | [View Project](https://github.com/JayasaiKarthik-G/Movie-Explorer-App) |
+| 🛒 React E-Commerce | [View Project](https://github.com/JayasaiKarthik-G/React-Redux-E-Commerce-App) |
+| ✅ Personal Task Manager | [View Project](https://github.com/JayasaiKarthik-G/Personal-Task-Manager-App) |
+| 🌦 Weather Forecast App | [View Project](https://github.com/JayasaiKarthik-G/Weather-Condition-Application) |
+| 🤖 Tool Wear & Fault Prediction | [View Project](https://github.com/JayasaiKarthik-G/...) |
 
 ---
 
@@ -130,6 +130,7 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
 
 ---
 
+<!-- GitHub Trophies (temporarily unavailable)
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -138,8 +139,7 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
     alt="GitHub Trophies"
   />
 </p>
-
----
+-->
 
 ## 📈 Contribution Graph
 
