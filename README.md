@@ -52,7 +52,7 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
 
 ⚛️ React & Redux Toolkit Developer
 
-🌱 Currently learning Microservices, Docker & System Design
+🌱 Currently learning TypeScript, Node.js & Next.js
 
 🚀 Passionate about Full Stack Development
 
