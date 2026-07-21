@@ -105,44 +105,53 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayasaiKarthik-G&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JayasaiKarthik-G&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayasaiKarthik-G&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayasaiKarthik-G&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayasaiKarthik-G&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayasaiKarthik-G&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayasaiKarthik-G&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JayasaiKarthik-G&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=JayasaiKarthik-G&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JayasaiKarthik-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=JayasaiKarthik-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayasaiKarthik-G&theme=tokyo-night"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JayasaiKarthik-G&theme=tokyo-night"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
