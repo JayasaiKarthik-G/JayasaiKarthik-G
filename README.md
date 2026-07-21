@@ -58,10 +58,6 @@ Building scalable full-stack web applications with Java, Spring Boot, React, Red
 
 💡 Interested in building scalable, responsive and user-friendly web applications
 
-📧 **Email:** jayasaikarthik66@gmail.com
-
-🌐 **Portfolio:** https://jayasai-karthik.vercel.app
-
 ---
 
 # 🚀 Tech Stack
